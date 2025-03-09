@@ -15,3 +15,9 @@ This script (`pathfinder.sh`) tries to fingerprint the web server, brute forces 
 1. Git clone this repo: git clone https://github.com/ayushmanchhabra/pathfinder
 1. Hop into the folder: cd ./pathfinder
 1. Execute the script: bash ./pathfinder.sh example.com
+
+## License
+
+MIT.
+
+> Legal disclaimer: Usage of pathfinder on hosts without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
